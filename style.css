@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  margin: 0;
+}
+
+header {
+  background: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+select {
+  padding: 5px;
+}
+
+#matches {
+  padding: 15px;
+}
+
+.match {
+  background: #020617;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.league {
+  font-size: 12px;
+  color: #94a3b8;
+}
